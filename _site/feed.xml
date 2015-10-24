@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texte du jour</title>
+    <description>Chaque jour, un nouveau texte à lire.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Oct 2015 15:19:59 -0400</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2015 15:19:59 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hemingway A Paris</title>
+        <description>&lt;h1 id=&quot;hemingway--paris&quot;&gt;Hemingway à Paris&lt;/h1&gt;
+&lt;p&gt;Ernest Hemingway était un globe-trotter. L’influence de ses nombreux voyages autour du monde est visible dans beaucoup de ses ouvrages. Pourtant, aucun autre endroit n’est autant associé à lui que Paris. Il commence &lt;em&gt;Paris est une fête&lt;/em&gt; (&lt;em&gt;A Moveable Feast&lt;/em&gt;) par cette citation: &lt;em&gt;“Si vous avez la chance d’avoir vécu jeune homme à Paris, où que vous alliez pour le reste de votre vie, cela ne vous quitte pas, car Paris est une fête.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hemingway y débarque avec sa femme, Hadley, en 1921 comme correspondant étranger pour le &lt;em&gt;Toronto Star&lt;/em&gt;. Le couple emménage dans un appartement rue du Cardinal-Lemoine dans le Quartier latin dans le 5e arrondissement.&lt;/p&gt;
+
+&lt;p&gt;À Paris, Hemingway rencontre Gertrude Stein. Elle l’introduit auprès d’autres écrivains et peintres expatriés qui forment &lt;em&gt;la génération perdue&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les Hemingway quitteront Paris en 1923 pour donner naissance à leur fils Jack et y retourneront ensuite en 1924.
+Durant son séjour à Paris, Hemingway rédigera de nombreux romans et nouvelles dont, notamment, &lt;em&gt;Le soleil se lève aussi&lt;/em&gt; (&lt;em&gt;The Sun Also Rises&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;De nombreuses anecdotes plus ou moins vraies accompagnent les années parisiennes de l’écrivain. L’une d’elles raconte ceci: Engagé comme correspondant durant la seconde guerre mondiale, il suivait les troupes américaines qui devaient reconquérir Paris. Lorsque les Américains sont entrés dans la ville,  la légende dit que Hemingway à sauté dans une Jeep avec quelques soldats pour libérer l’hôtel Ritz à Paris. Une fois au bar, lui et ses hommes ont commandé 51 Dry Martinis. Depuis un des bars de l’hôtel porte son nom.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/2015/10/24/Hemingway-a-paris.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/10/24/Hemingway-a-paris.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

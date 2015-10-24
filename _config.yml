@@ -1,0 +1,15 @@
+# Site settings
+title: Texte du jour
+email: amaueyr.moulron@gmai.com
+description: > # this means to ignore newlines until "baseurl:"
+  Chaque jour, un nouveau texte à lire.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: erakor
+github_username:  erakor
+
+# Build settings
+markdown: kramdown
+
+sass:
+  sass_dir: stylesheets
