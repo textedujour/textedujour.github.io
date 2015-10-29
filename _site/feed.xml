@@ -6,9 +6,30 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Oct 2015 11:16:03 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2015 11:16:03 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2015 11:08:03 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2015 11:08:03 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Quartier Latin</title>
+        <description>&lt;h1 id=&quot;le-quartier-latin&quot;&gt;Le Quartier latin&lt;/h1&gt;
+
+&lt;p&gt;Le Quartier latin est un quartier de Paris situé sur la rive gauche, à cheval sur les 5e et 6e arrondissements. Il abrite de nombreuses écoles, dont notamment la Sorbonne, prestigieuse université. Le quartier tire son nom du fait que jusqu’en 1789, année de la Révolution française, la langue officielle de l’enseignement était le latin.&lt;/p&gt;
+
+&lt;p&gt;Fréquenté par les étudiants et les professeurs, il est un centre étudiant et est le siège de nombreuses académies. C’est notamment là, à la Sorbonne, qu’ont eu lieu une partie des évènements de Mai 68.&lt;/p&gt;
+
+&lt;p&gt;Le quartier abrite de nombreux bâtiments. Entre autres:
+* La Sorbonne. Prestigieuse université fondée en 1253 par Robert de Sorbon. Il est à l’origine un collège pour les pauvres;
+* Le Palais du Luxembourg et son jardin, siège du Sénat français;
+* Le Jardin des plantes, un jardin botanique ouvert au public;
+* Le Panthéon. Construit à l’origine comme une église dédié à sainte Geneviève, le Panthéon abrite aujourd’hui les dépouilles de personnes ayant marqué l’histoire de France.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/2015/10/29/Quartier-latin.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/10/29/Quartier-latin.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Stromae</title>
