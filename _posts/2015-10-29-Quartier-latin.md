@@ -5,6 +5,7 @@ Le Quartier latin est un quartier de Paris situé sur la rive gauche, à cheval 
 Fréquenté par les étudiants et les professeurs, il est un centre étudiant et est le siège de nombreuses académies. C’est notamment là, à la Sorbonne, qu’ont eu lieu une partie des évènements de Mai 68.
 
 Le quartier abrite de nombreux bâtiments. Entre autres:
+
 * La Sorbonne. Prestigieuse université fondée en 1253 par Robert de Sorbon. Il est à l’origine un collège pour les pauvres;
 * Le Palais du Luxembourg et son jardin, siège du Sénat français;
 * Le Jardin des plantes, un jardin botanique ouvert au public;
